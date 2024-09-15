@@ -12,6 +12,8 @@ Twitter, Instagram and their Email.
 
 ## Implementation
 
+[Watch the video](./Screen Recording 2024-09-15 221751.mp4)
+
 ### Dependencies
 
 * Chrome Browser
