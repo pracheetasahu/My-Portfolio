@@ -12,7 +12,7 @@ Twitter, Instagram and their Email.
 
 ## Implementation
 
-[Watch the video](./Screen Recording 2024-09-15 221751.mp4)
+[Watch the video](./Screen%20Recording%202024-09-15%20221751.mp4)
 
 ### Dependencies
 
